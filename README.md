@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jirapat ruetrakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jirapat ruetrakul" height="30" width="40" /></a>
-<a href="https://fb.com/jirapat ruetrakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jirapat ruetrakul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Jirapat Ruetrakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jirapat ruetrakul" height="30" width="40" /></a>
+<a href="https://fb.com/Jirapat Ruetrakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jirapat ruetrakul" height="30" width="40" /></a>
 <a href="https://instagram.com/palyrahumestromoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palyrahumestromoss" height="30" width="40" /></a>
 </p>
 
